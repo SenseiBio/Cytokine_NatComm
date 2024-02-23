@@ -1,7 +1,7 @@
 README
 
 # Project information
-This is a R project to regenerate figures and analysis results for our manuscript published in Nature Communications (link later). Specifically, we process the cytoking profile data and gerenate Figure 7b~7d. 
+This is an R project to regenerate figures and analysis results for our manuscript published in Nature Communications (link later). Specifically, we process the cytoking profile data and gerenate Figure 7b~7d. 
 
 # Instrcutions
 
